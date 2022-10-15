@@ -1,2 +1,1 @@
-# leetcode-python3
-Solutions to LeetCode DSA problems using Python3
+This repository contains only DSA problem solutions from LeetCode using Python3.
